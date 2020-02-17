@@ -31,4 +31,4 @@ Specifically, it searches for pairs parentheses, brackets, and curly brackets an
 - https://www.dreamincode.net/forums/topic/51251-double-free-or-corruption-error/
 - http://www.cplusplus.com/reference/fstream/ofstream/is_open/
 - https://mathbits.com/MathBits/CompSci/Files/End.htm
-Data Structures and Algorithms - Goodrich
+- Data Structures and Algorithms - Goodrich
